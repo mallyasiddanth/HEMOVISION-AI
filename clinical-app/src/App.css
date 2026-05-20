@@ -233,3 +233,92 @@ input:focus, select:focus, textarea:focus {
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(255, 255, 255, 0.3);
 }
+
+/* MOBILE RESPONSIVENESS */
+@media (max-width: 768px) {
+  .app-header {
+    padding: 0 16px;
+    height: 70px;
+  }
+
+  .logo span {
+    display: none; /* Hide long name on mobile */
+  }
+
+  .logo::after {
+    content: "HEMOVISION";
+    font-size: 0.9rem;
+    font-weight: 800;
+  }
+
+  nav {
+    gap: 8px;
+  }
+
+  nav button {
+    padding: 8px 12px;
+    font-size: 0.8rem;
+  }
+
+  .app-main {
+    padding: 16px;
+  }
+
+  .card {
+    padding: 24px 16px;
+    border-radius: 16px;
+  }
+
+  h1 {
+    font-size: 1.8rem !important;
+  }
+
+  h2 {
+    font-size: 1.4rem !important;
+  }
+
+  .hospital-btn {
+    padding: 12px 20px;
+    font-size: 0.9rem;
+    width: 100%;
+  }
+
+  /* Grid adjustments for mobile */
+  [style*="grid-template-columns: repeat(3, 1fr)"],
+  [style*="grid-template-columns: repeat(4, 1fr)"] {
+    grid-template-columns: 1fr !important;
+    gap: 16px !important;
+  }
+
+  [style*="grid-template-columns: 2fr 1fr"] {
+    grid-template-columns: 1fr !important;
+    gap: 24px !important;
+  }
+
+  [style*="display: flex; gap: 64px"] {
+    flex-direction: column;
+    align-items: flex-start !important;
+    gap: 20px !important;
+  }
+
+  [style*="display: flex; gap: 32px"] {
+    flex-direction: column;
+    gap: 16px !important;
+  }
+
+  [style*="min-width: 160px"],
+  [style*="min-width: 140px"] {
+    min-width: 0 !important;
+    text-align: left !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .logo::after {
+    display: none;
+  }
+  
+  nav button span {
+    display: none;
+  }
+}
