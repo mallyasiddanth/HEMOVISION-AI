@@ -1,0 +1,42 @@
+# Large Binary Files
+*.zip
+*.xls
+*.xlsx
+*.h5
+
+# Node
+node_modules/
+clinical-app/dist/
+clinical-app/node_modules/
+.env
+
+# Python
+__pycache__/
+backend/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Databases
+backend/clinical_data.db
+
+# Generated Files
+*.xlsx
+backend/hemovision_patients_master.xlsx
+
+# OS
+.DS_Store
+Thumbs.db

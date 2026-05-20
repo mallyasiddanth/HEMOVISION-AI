@@ -1,0 +1,34 @@
+
+================================================================================
+                    ABC HOSPITAL & RESEARCH CENTRE
+                    OFFICIAL AI DIAGNOSTIC REPORT
+================================================================================
+
+PATIENT INFORMATION:
+-------------------
+Record ID:      0ae22c60-b752-4624-8fc2-9b72d10e91d6
+Full Name:      subraya
+Age/Gender:     19Y / MALE
+Timestamp:      5/20/2026, 9:00:35 AM
+
+CLINICAL INDICATORS:
+-------------------
+Comorbidities:  NONE REPORTED
+Symptoms:       HEADACHE, WEAKNESS
+
+AI DIAGNOSTIC INFERENCE:
+-----------------------
+Dengue Risk:    LOW
+Est. Platelets: 272,479 cells/mcL
+Confidence:     95%
+Correlation:    Standard AI Inference
+
+TRIAGE RECOMMENDATIONS:
+----------------------
+STABLE: Low risk. Outpatient monitoring. Maintain hydration. Review if abdominal pain or mucosal bleeding occurs.
+
+--------------------------------------------------------------------------------
+DISCLAIMER: THIS IS AN AI-GENERATED TRIAGE REPORT FOR HACKATHON DEMO PURPOSES.
+VERIFIED BY: ABC-AI-V5.0 PROTOCOL
+================================================================================
+    

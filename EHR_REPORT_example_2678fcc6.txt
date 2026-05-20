@@ -1,0 +1,34 @@
+
+================================================================================
+                    ABC HOSPITAL & RESEARCH CENTRE
+                    OFFICIAL AI DIAGNOSTIC REPORT
+================================================================================
+
+PATIENT INFORMATION:
+-------------------
+Record ID:      2678fcc6-b224-4b75-b6a6-2372cd556356
+Full Name:      example
+Age/Gender:     20Y / OTHER
+Timestamp:      5/20/2026, 3:28:35 AM
+
+CLINICAL INDICATORS:
+-------------------
+Comorbidities:  HYPERTENSION, PCOD
+Symptoms:       FEVER, RASHES, HEADACHE, MUSCLEPAIN, WEAKNESS
+
+AI DIAGNOSTIC INFERENCE:
+-----------------------
+Dengue Risk:    HIGH
+Est. Platelets: 58,117 cells/mcL
+Confidence:     96%
+Correlation:    Training Data Match: Case ID FVR-05 (Classic Dengue/Viral Prodrome Pattern)
+
+TRIAGE RECOMMENDATIONS:
+----------------------
+CRITICAL: High-risk pattern detected. Immediate hospitalization for IV fluid resuscitation and platelet transfusion preparation. Correlated with high-complexity training data.
+
+--------------------------------------------------------------------------------
+DISCLAIMER: THIS IS AN AI-GENERATED TRIAGE REPORT FOR HACKATHON DEMO PURPOSES.
+VERIFIED BY: ABC-AI-V5.0 PROTOCOL
+================================================================================
+    

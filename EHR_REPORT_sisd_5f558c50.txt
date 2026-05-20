@@ -1,0 +1,34 @@
+
+================================================================================
+                                HEMOVISION AI
+                        OFFICIAL DIAGNOSTIC REPORT
+================================================================================
+
+PATIENT INFORMATION:
+-------------------
+Record ID:      5f558c50-bb2e-4e0a-b312-3469bf452732
+Full Name:      sisd
+Age/Gender:     19Y / MALE
+Timestamp:      5/20/2026, 5:42:02 AM
+
+CLINICAL INDICATORS:
+-------------------
+Comorbidities:  NONE REPORTED
+Symptoms:       FEVER, RASHES, COUGH, WEAKNESS
+
+AI DIAGNOSTIC INFERENCE:
+-----------------------
+Dengue Risk:    HIGH
+Est. Platelets: 49,268 cells/mcL
+Confidence:     95%
+Correlation:    Atypical Viral Signature: Visual markers suggest acute hemorrhagic onset.
+
+TRIAGE RECOMMENDATIONS:
+----------------------
+CRITICAL: High-risk pattern detected. Immediate hospitalization for IV fluid resuscitation and platelet transfusion preparation. Correlated with high-complexity training data.
+
+--------------------------------------------------------------------------------
+DISCLAIMER: THIS IS AN AI-GENERATED TRIAGE REPORT.
+VERIFIED BY: HEMOVISION-V5.0 PROTOCOL
+================================================================================
+    
